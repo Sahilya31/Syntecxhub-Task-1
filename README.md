@@ -10,14 +10,16 @@ This project is part of the Data Science internship task at Syntecxhub. It aims 
 ## 📈 Visualizations Included
 ## 📈 Visualizations Included
 
+## 📈 Visualizations Included
+
 ### 1. Customer Segments Share (Pie Chart)
-![Pie Chart](Screenshot%202026-06-18%20115222.png)
+![Pie Chart](Screenshot%202026-06-18%20115138.png)
 
 ### 2. Customer Count per Segment (Bar Chart)
 ![Bar Chart](Screenshot%202026-06-18%20115203.png)
 
 ### 3. Overall Distribution of RFM Metrics (Histograms)
-![RFM Distribution](Screenshot%202026-06-18%20115138.png)
+![RFM Distribution](Screenshot%202026-06-18%20115222.png)
 
 ## 🚀 Key Segments Identified
 - **Champions:** Best customers who buy frequently and spend the most.
