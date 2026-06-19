@@ -26,3 +26,9 @@ This project is part of the Data Science internship task at Syntecxhub. It aims 
 - **Loyal Customers:** Regular buyers responsive to promotions.
 - **New Customers:** High recency but low frequency.
 - **Churn Risk:** Customers who haven't purchased in a long time; need win-back campaigns.
+
+## 🛠️ How to Run the Project
+
+1. Clone this repository:
+```bash
+git clone [https://github.com/Sahilya31/Syntecxhub-Task-1.git](https://github.com/Sahilya31/Syntecxhub-Task-1.git)
