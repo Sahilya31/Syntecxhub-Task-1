@@ -8,9 +8,16 @@ This project is part of the Data Science internship task at Syntecxhub. It aims 
 - **Core Concepts:** Data Cleaning, Feature Engineering, RFM Scoring, Customer Segmentation
 
 ## 📈 Visualizations Included
-1. **Pie Chart:** Showing the percentage share of each customer segment (Champions, Loyal, Churn Risk, etc.).
-2. **Bar Chart:** Showing the exact count of customers in each category.
-3. **Histograms:** Distribution plots for Recency (Days), Frequency (Orders), and Monetary (Total Spend).
+## 📈 Visualizations Included
+
+### 1. Customer Segments Share (Pie Chart)
+![Pie Chart](Screenshot%202026-06-18%20115222.png)
+
+### 2. Customer Count per Segment (Bar Chart)
+![Bar Chart](Screenshot%202026-06-18%20115203.png)
+
+### 3. Overall Distribution of RFM Metrics (Histograms)
+![RFM Distribution](Screenshot%202026-06-18%20115138.png)
 
 ## 🚀 Key Segments Identified
 - **Champions:** Best customers who buy frequently and spend the most.
